@@ -1,1 +1,2 @@
 export TF_VAR_github_token="YOUR GitHub TOKEN"
+export TF_VAR_github_username="YOUR GitHub username"
