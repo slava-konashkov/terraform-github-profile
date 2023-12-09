@@ -1,5 +1,8 @@
 variable "github_username" {
-    description = "The "
-    type = string
-    default = "slava.konashkov"
+  type    = string
+  default = "slava.konashkov"
+}
+
+variable "github_token" {
+  type = string
 }

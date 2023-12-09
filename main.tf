@@ -1,8 +1,6 @@
 resource "github_repository" "profile" {
   name = var.github_username
-
   visibility = "public"
-
   has_wiki = false
 }
 
