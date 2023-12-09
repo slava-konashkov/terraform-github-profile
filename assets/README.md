@@ -29,11 +29,20 @@ const SlavaKonashkov = {
         devOps: ["AWS", "Docker🐳"],
         MQ: ["RabbitMQ", "Gearman"],
         databases: ["MongoDB", "PostgreSql", "MySql", "SQLite", "Elasticsearch", "Redis"],
-        misc: ["Microservices", "RabbitMQ", "open-cv", "php", "Design Patterns", "DDD", "TDD", "CSS", "HTML", "UML", "Jira"]
+        misc: ["Microservices", "RabbitMQ", "open-cv", "php", "Design Patterns", "DDD",
+        "TDD", "CSS", "HTML", "UML", "Jira"]
     },
-    architecture: ["Monolithic Architecture", "Microservices Architecture", "Service-Oriented Architecture (SOA)", "Event-Driven Architecture", "Serverless Architecture", "Cloud Architecture", "Single page applications"],
+    architecture: [
+        "Monolithic Architecture",
+        "Microservices Architecture",
+        "Service-Oriented Architecture (SOA)",
+        "Event-Driven Architecture",
+        "Serverless Architecture",
+        "Cloud Architecture",
+        "Single page applications"
+    ],
     currentFocus: "High Load applications and systems",
-    funFact: "There are 10 types of people in this world, those who understand binary system and those who don't"
+    funFact: "There are 10 types of people, those who understand binary and those who don't"
 };
 ```
 
