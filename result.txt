@@ -1,0 +1,4 @@
+Terraform v1.6.5
+on darwin_amd64
+gh version 2.39.2 (2023-11-27)
+https://github.com/cli/cli/releases/tag/v2.39.2
